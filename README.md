@@ -1,17 +1,1 @@
 # dilpreetsainii.github.io
-<!DOCTYPE html>
-<html>
-<head>
-<title>Page Title</title>
-</head>
-<body>
-
-<h1 style="text-align:center"> “The journey of a thousand miles begins with a single step.” ... </h1>
-<div> 
-<img style="height:250px; width:250px; margin-left:32%;" ;     src="https://static.vueling.com/blog/media/1516/21_destinos-para-viajar-solo.jpg">
-</div>
-<p style ="font-size:20px;"> Travelling gives me a good opportunity to learn a lot about the history of the country I visit, to see cultural and historical places, to meet people of different nationalities, to learn a lot about their traditions, customs and culture. In other words. I can expand my worldview and my mind.</p>
-<p> Dilpreet kaur</p>
-
-</body>
-</html>
